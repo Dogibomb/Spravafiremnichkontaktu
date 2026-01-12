@@ -23,7 +23,7 @@
 .nav-links {
   display: flex;
   list-style: none;
-  gap: 30px;
+  gap: 20px;
 }
 
 .nav-links a {
@@ -51,4 +51,7 @@
   text-decoration: none;
   padding: 8px 16px;
   border-radius: 6px;
+}
+#home-btn{
+  font-size: 20px;
 }
